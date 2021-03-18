@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Janav, a student at ACS (Independent), Singapore
+- 👀 I’m interested in front-end development, Python and Ruby
+- 🌱 I’m currently learning HTML, CSS and JS
+- 💞️ I’m looking to collaborate on fun and interesting projects!
+- 📫 Reach me at... nowhere (I'm a child and should not share personal information so, sorry)
